@@ -26,7 +26,7 @@ SECRET_KEY = 'x!p!&4x%0r0g$5euajie0_t-%r*^velohob(&chread2)q%4m7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [rtspl.pythonanywhere.com]
 
 
 # Application definition
